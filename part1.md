@@ -48,6 +48,6 @@ After piecing together what we have discussed, we can visualize a story as havin
 
 _
 
-Next Section: Paying Attention to your Audience
+Next Section: [Paying Attention to your Audience](part2.md)
 
 [Home](readme.md)
