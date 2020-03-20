@@ -42,7 +42,8 @@ Some events are more important than others. Events bring about tension and confl
 
 At the center of all stories, there is a 'story core' - the main central challenge/problem/opportunity that drives the story forward. 
 
--
+
+![storycore](storycore.jpg)
 
 Next Section: Paying Attention to your Audience
 
