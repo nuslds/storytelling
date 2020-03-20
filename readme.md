@@ -7,3 +7,8 @@ After this short tutorial, you will:
   - Learn how to engage your audience through great storytelling
   - Become aware of other useful storytelling techniques and concepts related to digital storytelling.
   
+## Contents
+1. Components of a story
+2. Paying attention to your audience
+3. Creating your own story
+4. Other techniques and digital storytelling
