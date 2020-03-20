@@ -22,6 +22,10 @@ When the audience gets invested in a story, deep down they want to be able to ta
 
 This goes back to the question of crafting stories that are relatable to your audience, engages them, and can be seen from their own perspective or lived experiences.
 
+
+References: Jenkins, H. (2009). Revenge of the Origami Unicorn: The remaining four principles of transmedia storytelling. Retrieved from: http://henryjenkins.org/blog/2009/12/revenge_of_the_origami_unicorn.html 
+
+
 Previous Section: [Components of a story](part1.md)
 
 Next Section: [Creating your own story](part3.md)
