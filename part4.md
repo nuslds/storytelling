@@ -50,3 +50,8 @@ Usability:
 Copyright/permissions: 
 - Who owns the images/materials? Do you have permission? Citations? Terms of use?
 
+_
+
+Previous Section: [Creating your own story](part3.md)
+
+[Home](readme.md)
