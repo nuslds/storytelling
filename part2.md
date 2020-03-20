@@ -22,8 +22,8 @@ When the audience gets invested in a story, deep down they want to be able to ta
 
 This goes back to the question of crafting stories that are relatable to your audience, engages them, and can be seen from their own perspective or lived experiences.
 
-Previous Section: [Components of a story](markdowns/part1.md)
+Previous Section: [Components of a story](part1.md)
 
-Next Section: [Creating your own story](markdowns/part3.md)
+Next Section: [Creating your own story](part3.md)
 
-[Home](markdowns/readme.md)
+[Home](readme.md)
