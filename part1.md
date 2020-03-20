@@ -46,6 +46,8 @@ When we piece together all the components, we can visualize a story as having th
 
 ![storycore](storycore.jpg)
 
+_
+
 Next Section: Paying Attention to your Audience
 
 [Home](readme.md)
