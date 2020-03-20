@@ -48,7 +48,7 @@ Usability:
 - How can your audience use your website content? Can they take a photo of it and publish it in their website? 
 
 Copyright/permissions: 
-- Who owns the images/materials? Do you have permission? Citations? Terms of use?
+- Who owns the images/materials? Do you have permission? How to cite? What are the terms of use?
 
 _
 
