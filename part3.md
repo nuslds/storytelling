@@ -5,9 +5,13 @@ There are many techniques that you can use to get started with crafting a great 
 ## 1. Rapid Brainstorming
 
 Step 1. Think of the main message that you want the audience to take away from your story
+
 Step 2: Identify the main story core (i.e. the main conflict(s) or challenge(s))
+
 Step 3: Identify the characters you need
+
 Step 4: Identify the world
+
 Step 5: Identify the events and potential actions
 
 With the exception of Step 1, the brainstorming process should be done very quickly. Write down the things or ideas that come to your mind.
