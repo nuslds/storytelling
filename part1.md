@@ -42,7 +42,7 @@ Some events are more important than others. Events bring about tension and confl
 
 At the center of all stories, there is a 'story core' - the main central challenge/problem/opportunity that drives the story forward. 
 
-When we piece together all the components, we can visualize a story as having these components:
+After piecing together what we have discussed, we can visualize a story as having these components:
 
 ![storycore](storycore.jpg)
 
