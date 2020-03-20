@@ -34,6 +34,14 @@ https://alvalyn.com/capture-attention-with-visual-hierarchy/
 
 https://www.interaction-design.org/literature/topics/visual-hierarchy
 
+
+#### Scrollytelling and interactivity
+
+https://webflow.com/blog/scrollytelling-guide
+
+https://medium.com/nightingale/from-storytelling-to-scrollytelling-a-short-introduction-and-beyond-fbda32066964
+
+
 #### Other considerations about Digital Storytelling
 
 There are often questions about distribution, accessibility, usability and copyright/permissions when content is put online.
