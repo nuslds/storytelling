@@ -7,7 +7,7 @@ All stories are essentially made up of three main components
 
 ## Characters
 
-Character building is the development of fictional characters in the story. This could be anything related to:
+Character building is the development of characters in the story. This could be anything related to:
 - backstory
 - appearance
 - psychology
@@ -23,7 +23,7 @@ Characters are important because they carry out the actions in your story. Your 
 
 ## World 
 
-World building is the process of designing a fictional universe that enables characters, events and actions to take place. It needs to be sufficiently detailed to increase the level of immersion and improve the experience of the audience.
+World building is the process of designing a universe that enables characters, events and actions to take place. It needs to be sufficiently detailed to increase the level of immersion and improve the experience of the audience.
 
 A good story world is built when:
 - It allows for the fictional characters to exist
